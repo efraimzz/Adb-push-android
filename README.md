@@ -1,2 +1,2 @@
-# Adb-push-android
-My success android adb push project!
+# Adb-push-pull-install-commands-android-otg
+My forked android adb tools project!
